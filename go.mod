@@ -1,4 +1,4 @@
-module github.com/shaelmaar/pool
+module github.com/shaelmaar/conn-pool
 
 go 1.18
 
