@@ -1,4 +1,4 @@
-module github.com/go-baa/pool
+module github.com/shaelmaar/pool
 
 go 1.18
 
